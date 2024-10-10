@@ -1,0 +1,34 @@
+{
+    "allow_delete": true,
+    "default_index": [
+        {
+            "start": null,
+            "step": null,
+            "stop": null
+        }
+    ],
+    "groups": [],
+    "hidden_tensors": [
+        "_features_shape",
+        "_features_id",
+        "_labels_shape",
+        "_labels_id"
+    ],
+    "tensor_names": {
+        "_features_id": "_features_id",
+        "_features_shape": "_features_shape",
+        "_labels_id": "_labels_id",
+        "_labels_shape": "_labels_shape",
+        "features": "features",
+        "labels": "labels"
+    },
+    "tensors": [
+        "features",
+        "_features_shape",
+        "_features_id",
+        "labels",
+        "_labels_shape",
+        "_labels_id"
+    ],
+    "version": "3.9.25"
+}
